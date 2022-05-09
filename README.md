@@ -1,5 +1,5 @@
 # Star Wars Character App
-An Android app built with Jetpack Compose to consume the Star Wars API.
+An Android app built with Jetpack Compose to consume the Star Wars API, with data from [SWAPI](https://swapi.dev/api/people/1/) consumed via Cloud functions [repo](https://github.com/Bavon101/star_wars_api)
 
 <p style="display: flex; align-items: start; gap: 10px">
   <img src="screenshots/home_0.jpg" width="30%" />
@@ -13,6 +13,11 @@ An Android app built with Jetpack Compose to consume the Star Wars API.
   <img src="screenshots/home_people_view_1.jpg" width="30%" />
 </p>
 
+## Built With
+
+- Kotlin
+- Jetpack
+- Cloud Functions
 ### Setup
 
 - Clone the GitHub Repository
